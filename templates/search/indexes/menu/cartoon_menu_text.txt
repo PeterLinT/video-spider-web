@@ -1,0 +1,3 @@
+{{ object.title }}
+{{ object.cartoon_detail.introduction }}
+{{ object.cartoon_detail.tag }}
